@@ -1,0 +1,11 @@
+{
+  "version_name": "1.0.0",
+  "apk_url": "http://example.com/update.apk",
+  "update_title": "版本更新",
+  "update_message": "新增功能优化",
+  "update_size": "5MB",
+  "assets_zip_url": "http://example.com/assets_v1.0.1.zip",
+  "assets_zip_version": "1.0.0",
+  "loader_zip_url": "http://example.com/loader_v1.0.1.zip",
+  "loader_zip_version": "1.0.0"
+}
