@@ -1,0 +1,14 @@
+{
+  "code": "200",
+  "apk": {
+    "version": "2.1",
+    "url": "https://你的用户名.github.io/pubgm-updates/apk/pubgm-loader-v2.1.apk",
+    "must_update": "y",
+    "update_msg": "1. 优化悬浮窗响应速度\n2. 修复部分设备崩溃问题\n3. 新增防封"
+  },
+  "file": {
+    "version": "3.2",
+    "url": "https://你的用户名.github.io/pubgm-updates/files/assets-v3.2.zip",
+    "desc": "1. 更新\n3. 优化自瞄算法精度"
+  }
+}
