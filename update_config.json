@@ -1,13 +1,6 @@
 {
-  "code": "200",
-  "msg": {
-    "version": "4",
-    "app_update_show": "1. 新增星空动画优化，提升视觉流畅度\n2. 修复云更新资源解压失败问题\n3. 优化卡密验证稳定性，减少数据异常提示\n4. 新增防闪退模块（FixCrash）自动更新",
-    "app_update_url": "https://wy.llua.cn/update/pubgm_loader_v4.apk",
-    "app_update_must": "n",
-    "fix_crash_version": "2",
-    "fix_crash_url": "https://wy.llua.cn/resource/fix_crash_v2.zip",
-    "main_url_version": "2",
-    "main_url_url": "https://wy.llua.cn/resource/main_url_v2.zip"
-  }
+  "version": "1.1",
+  "download_url": "https://your-server.com/assets_v1.1.zip",
+  "changelog": "修复了已知问题，优化了性能",
+  "mandatory": false
 }
